@@ -53,7 +53,7 @@ Users should be able to:
 
 ### What I learned
 
-In these challenge I learned how to handle and style HTML input error messages with CSS and JavaScript. The MDN's [article](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation) on Client-side form validation was very helpful.
+In this challenge I learned how to handle and style HTML input error messages with CSS and JavaScript. The MDN's [article](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation) on Client-side form validation was very helpful.
 
 I also created my first Github repo from the command line.
 
