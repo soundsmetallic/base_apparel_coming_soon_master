@@ -17,19 +17,40 @@
   </style>
 </head>
 <body>
-
-  We're coming soon
-
-  Hello fellow shoppers! We're currently building our new fashion store. 
-  Add your email below to stay up-to-date with announcements and our launch deals.
-
-  Email Address
+  <main>
+    <div class="main-card">
+      <div class="left-side">
+        <img id="logo" src="./images/logo.svg" alt="base appared company logo">
+        <img id="mobile-hero-image" src="./images/hero-mobile.jpg" alt="base apparel promo image wiht female model">
+        <div class="copy">
+          <h1>We're <span>coming soon</span></h1>
+          <p> Hello fellow shoppers! We're currently building our new fashion store. 
+            Add your email below to stay up-to-date with announcements and our launch deals.</p>
+        </div>
+        <form action="#" method="get">
+          <div class="email">
+            <label for="email"></label>
+            <input type="email" name="email" id="email" placeholder="Email Address" required title="Please provide a valid email">
+            <button type="submit">
+              <img src="./images/icon-arrow.svg" alt="sumbit button icon">
+            </button>
+            <img class="warning" src="./images/icon-error.svg" alt="input error">
+          </div>
+          <p class="error-message" aria-live="polite"></p>
+        </form>
+      </div>
+      <div class="right-side">
+      </div>
+    </div>
+  </main>
   
   <footer>
     <p class="attribution">
-      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-      Coded by <a href="#">Your Name Here</a>.
+      Challenge by <a href="https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0" target="_blank">Frontend Mentor</a>. 
+      Coded by <a href="#">Matej Hrovat</a>.
     </p>
   </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
