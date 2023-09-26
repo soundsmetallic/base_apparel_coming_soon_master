@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/soundsmetallic/base_apparel_coming_soon_master)
+- [Live Site URL](https://soundsmetallic.github.io/base_apparel_coming_soon_master/)
 
 ## My process
 
@@ -66,5 +66,5 @@ I also created my first Github repo from the command line.
 ## Author
 
 - Matej Hrovat
-- Frontend Mentor - [@ysoundsmetallic](https://www.frontendmentor.io/profile/soundsmetallic)
+- Frontend Mentor - [@soundsmetallic](https://www.frontendmentor.io/profile/soundsmetallic)
 - Linkedin - [@MatejHrovat](https://www.linkedin.com/in/matej-hrovat-9431a6272/)
